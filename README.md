@@ -62,36 +62,36 @@ TODO: GitHub 링크, 프로필 사진 업데이트 필요
 <table  width="100%">
   <tr>
     <td  align="center">
-      <img  src="#"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/231493993?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
-      <img  src="#"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/175488111?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
-      <img  src="#"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/232751753?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
-      <img  src="#"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/87091695?v=4"  width="100px;"  alt=""/>
     </td>
   </tr>
   <tr>
     <td align="center">
-        <a href="#">
+        <a href="https://github.com/thingphan">
             <div>김명관</div>
         </a>
     </td>
     <td align="center">
-        <a href="#">
+        <a href="https://github.com/hanjuhn">
             <div>배한준</div>
         </a>
     </td>
     <td align="center">
-        <a href="#">
+        <a href="https://github.com/hughryu1125">
             <div>유효석</div>
         </a>
     </td>
     <td align="center">
-        <a href="#">
+        <a href="https://github.com/JongHyeok03">
             <div>이종혁</div>
         </a>
     </td>
@@ -100,36 +100,36 @@ TODO: GitHub 링크, 프로필 사진 업데이트 필요
 <table  width="100%">
 <tr>
  <td  align="center">
-   <img  src="#"  width="100px;"  alt=""/>
+   <img  src="https://avatars.githubusercontent.com/u/232745572?v=4"  width="100px;"  alt=""/>
  </td>
  <td  align="center">
-   <img  src="#"  width="100px;"  alt=""/>
+   <img  src="https://avatars.githubusercontent.com/u/124511521?v=4"  width="100px;"  alt=""/>
  </td>
  <td  align="center">
-   <img  src="#"  width="100px;"  alt=""/>
+   <img  src="https://avatars.githubusercontent.com/u/189176568?v=4"  width="100px;"  alt=""/>
  </td>
   <td  align="center">
-   <img  src="#"  width="100px;"  alt=""/>
+   <img  src="https://avatars.githubusercontent.com/u/228944654?v=4"  width="100px;"  alt=""/>
  </td>
 </tr>
 <tr>
  <td align="center">
-     <a href="#">
+     <a href="https://github.com/ejjunm">
          <div>전예준</div>
      </a>
  </td>
  <td align="center">
-     <a href="#">
+     <a href="https://github.com/yeonhyu">
          <div>정유진</div>
      </a>
  </td>
  <td align="center">
-     <a href="#">
+     <a href="https://github.com/eunseo-cho0426">
          <div>조은서</div>
      </a>
  </td>
   <td align="center">
-     <a href="#">
+     <a href="https://github.com/seryn6911-hub">
          <div>최세린</div>
      </a>
  </td>
