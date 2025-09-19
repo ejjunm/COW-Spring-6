@@ -57,7 +57,6 @@ COW 6기 서버 - 학습 미션을 위한 저장소
 </center>
 
 ### 👩‍👧‍👦 멘티
-TODO: GitHub 링크, 프로필 사진 업데이트 필요
 <center>
 <table  width="100%">
   <tr>
