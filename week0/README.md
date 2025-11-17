@@ -17,16 +17,12 @@
 # 필수
 ## www.google.com을 치면 일어나는일
 Keywords : DNS, TCP/IP프로토콜, WS, WAS
-
----
-
 ## API, HTTP통신
+
 
 ---
 
 ## 백엔드가 하는 일
-
----
 
 ## 객체지향 특징 및 장점
 
